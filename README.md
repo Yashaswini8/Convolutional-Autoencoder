@@ -130,7 +130,7 @@ def visualize_denoising(model, loader, num_images=10):
 ## OUTPUT
 
 ### Model Summary
- 
+ model_summary.png
 
 ### Original vs Noisy Vs Reconstructed Image
 
