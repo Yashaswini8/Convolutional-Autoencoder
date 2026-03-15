@@ -134,7 +134,8 @@ def visualize_denoising(model, loader, num_images=10):
 
 ### Original vs Noisy Vs Reconstructed Image
 
-
+![Actual vs Predicted](https://raw.githubusercontent.com/Yashaswini8/Convolutional-Autoencoder/main/actual%20vs%20pred.png)
 
 
 ## RESULT
+The convolutional autoencoder successfully removed noise from the images and reconstructed cleaner images from the noisy inputs.
